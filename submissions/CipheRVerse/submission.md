@@ -22,7 +22,7 @@ Edu AI is an AI-powered learning platform that transforms students’ syllabi an
 - Code repository:https://github.com/Anurag-rvce/Craft-N-Code-Karnataka/blob/b82bcbf2c226abbd24c143ea5868172ffd928ad9/index.html
 - Demo video:https://drive.google.com/file/d/1NxVZGF7dTpbi95bQwW2l8gKLOi8K9rik/view?usp=sharing
 - Slides:https://docs.google.com/presentation/d/1V5Bh1ZiSDanN91C_-J2hR1j1fvEDe0xPiUK_iYWhUs4/edit?usp=sharing
-- Deployed URL (optional):https://anurag-rvce.github.io/Craft-N-Code-Karnataka/
+- Deployed URL (optional):https://tourmaline-parfait-5b4a33.netlify.app
 
 ## Short answers
 
