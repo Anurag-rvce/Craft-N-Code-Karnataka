@@ -2,14 +2,14 @@
 
 ## Team
 
-- Team name:
-- Project name:
-- College:
-- Team members:
+- Team name:CipheRVerse
+- Project name: Edu AI
+- College:RVCE
+- Team members: Anurag, Karthik, Aayush, Samarth 
 
 ## Project summary
 
-One or two sentences on what your solution does and who it is for.
+Edu AI is an AI-powered learning platform that transforms students’ syllabi and reference materials into personalized notes, quizzes, and targeted revision plans. It identifies individual learning gaps through quiz performance and recommends focused practice and Youtube videos to help school, university, and competitive-exam students learn more effectively.
 
 
 
@@ -29,13 +29,11 @@ One or two sentences on what your solution does and who it is for.
 > All three answers are mandatory. Three to five sentences each is enough.
 
 **1. What made you choose this problem?**
-
-
+We chose this problem because students often spend hours preparing notes and practising questions, yet struggle to identify their weak areas and decide what to study next. We wanted to use AI not just to generate study materials, but to make learning more personalized by understanding each student's performance and guiding them towards improvement.
 
 **2. Who is it for, and how would they use it in a normal week?**
-
-
+Edu AI is designed for school students, university students, and competitive-exam aspirants who want a more structured and personalized way to study. During a normal week, they would upload their syllabus and reference materials, generate topic-wise notes and quizzes, practice regularly, and use AI-powered feedback to identify weak areas and receive targeted revision recommendations.
 
 **3. If you had another month, what would you build next?**
-
+With another month, we would enhance Edu AI’s adaptive learning engine to detect specific misconceptions more accurately and create personalized study plans that evolve with each student’s progress. We would also add support to more subjects and languages,then test the platform with real students to measure its impact on learning outcomes.
 
