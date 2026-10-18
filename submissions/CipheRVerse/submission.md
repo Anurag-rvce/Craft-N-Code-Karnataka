@@ -35,5 +35,5 @@ We chose this problem because students often spend hours preparing notes and pra
 Edu AI is designed for school students, university students, and competitive-exam aspirants who want a more structured and personalized way to study. During a normal week, they would upload their syllabus and reference materials, generate topic-wise notes and quizzes, practice regularly, and use AI-powered feedback to identify weak areas and receive targeted revision recommendations.
 
 **3. If you had another month, what would you build next?**
-With another month, we would enhance Edu AI’s adaptive learning engine to detect specific misconceptions more accurately and create personalized study plans that evolve with each student’s progress. We would also add support to more subjects and languages,then test the platform with real students to measure its impact on learning outcomes.
+With another month, we would enhance Edu AI’s adaptive learning engine to detect specific weak areas more accurately and create personalized study plans that evolve with each student’s progress. We would also add support to more subjects and languages,then test the platform with real students to measure its impact on learning outcomes.
 
